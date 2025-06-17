@@ -31,4 +31,4 @@ This roadmap simulates how I would structure and communicate improvements to Git
 I'm Lynn Rekhlis, a Senior Product Manager with a passion for developer tools, clear UX, and cross-functional collaboration.  
 This project demonstrates my product thinking, attention to user feedback, and roadmap storytelling skills.
 
-📬 Connect with me on [LinkedIn](https://www.linkedin.com/in/lynnrekhlis) *(add your link here)*.
+📬 Connect with me on [LinkedIn](https://www.linkedin.com/in/lynnrekhlis) 
