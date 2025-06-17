@@ -3,8 +3,7 @@
 This project presents a sample product roadmap focused on improving the Merge Request experience in GitLab.
 
 🔗 **Live demo via GitLab Pages**:  
-[https://gitlab.com/lynnrekhlis/product-roadmap-demo](https://gitlab.com/lynnrekhlis/product-roadmap-demo)
-
+[https://lynnrekhlis.github.io/product-roadmap-demo/](https://lynnrekhlis.github.io/product-roadmap-demo/)
 ---
 
 ## 🎯 Overview
