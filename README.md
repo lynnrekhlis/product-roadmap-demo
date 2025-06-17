@@ -1,14 +1,14 @@
 # Product Roadmap Demo
 
-This project presents a sample product roadmap focused on improving the Merge Request experience in GitLab.
+This project presents a sample product roadmap focused on improving the Merge Request experience.
 
-🔗 **Live demo via GitLab Pages**:  
+🔗 **Live demo**:  
 [https://lynnrekhlis.github.io/product-roadmap-demo/](https://lynnrekhlis.github.io/product-roadmap-demo/)
 ---
 
 ## 🎯 Overview
 
-This roadmap simulates how I would structure and communicate improvements to GitLab's Merge Request user experience, including:
+This roadmap simulates how I would structure and communicate improvements to Merge Request user experience, including:
 
 - Foundation and user research
 - Prototyping and feedback loops
@@ -20,7 +20,7 @@ This roadmap simulates how I would structure and communicate improvements to Git
 ## 🗂️ Files
 
 - `index.html` – Static roadmap site
-- `.gitlab-ci.yml` – GitLab Pages config
+- `.gitlab-ci.yml` – config
 - `README.md` – You're reading it!
 
 ---
